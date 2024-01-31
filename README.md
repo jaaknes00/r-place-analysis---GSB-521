@@ -1,1 +1,3 @@
-# r-place-analysis---GSB-521
+# Jake Aaknes
+# Ashkhan Taghavi
+# Nick Seah
